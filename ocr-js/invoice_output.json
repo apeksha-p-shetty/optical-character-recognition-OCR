@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "total": null,
+    "taxableAmount": null,
+    "discount": null,
+    "gst": null,
+    "date": null,
+    "invoiceNo": null,
+    "gstin": null,
+    "customerName": "Address",
+    "vendor": "My Company Name:"
+  },
+  "items": [],
+  "lines": [],
+  "fullText": "My Company Name:\n\nAddress:\n\nPhone No.:\nEmail ID:\nGSTIN:\n\n2,\nFS\n2)\n\nJRE elle lal]             3 RITA            L834H1\nItem 1\nItem 2\nItem 3\n\n138 s I 0) TL GE 00 EC)     Ns Talila\n50                                 756.00\n\nRo\n&\n\nfe)\n[—\nw [nano] fe\n-\nAd\npt\n®\n5\n\n33235\n\nS\na\nof:\nS\n\n4\n\n5678\n\nom\no\n\n5 >\n3 (3\n\nTVR) #1\nDiscount:\n\nAmount In Words:                                                                                   —\n\nTerms & Conditions\n\nDeclaration:\n\nThanks for business with uslll Please visit us again Il!\n\n",
+  "meta": {
+    "imageWidth": 3000,
+    "wordCount": 0,
+    "avgConfidence": 0,
+    "itemRowsFound": 0
+  }
+}

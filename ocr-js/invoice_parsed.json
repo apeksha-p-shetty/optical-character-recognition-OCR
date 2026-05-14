@@ -1,0 +1,61 @@
+{
+  "store_name": "Fresh Express",
+  "store_address": "G/456, Basant Lo, Vasant Vihar, Tardeo Road, Maharashtra - 400001",
+  "gstin": "26CORPP3939N1ZA",
+  "invoice_no": "46",
+  "invoice_date": "09-Feb-2024",
+  "delivery_date": "23-Feb-2024",
+  "customer_name": "Ronak Panchal",
+  "customer_phone": "9898989898",
+  "customer_address": "Gujarat",
+  "items": [
+    {
+      "sr_no": 1,
+      "description": "Kellogg's Corn Flakes with Real Almond & Honey",
+      "hsn": "1006",
+      "qty": "1 KGS",
+      "rate": 400,
+      "taxable_value": 400,
+      "tax_percent": 5,
+      "tax_amount": 20,
+      "total": 420
+    },
+    {
+      "sr_no": 2,
+      "description": "Skybags Ronan School Backpack - Assorted",
+      "hsn": "1006",
+      "qty": "1",
+      "rate": 1500,
+      "taxable_value": 1500,
+      "tax_percent": 12,
+      "tax_amount": 180,
+      "total": 1680
+    },
+    {
+      "sr_no": 3,
+      "description": "Star Bright Detergent Powder",
+      "hsn": "1006",
+      "qty": "1",
+      "rate": 300,
+      "taxable_value": 300,
+      "tax_percent": 5,
+      "tax_amount": 15,
+      "total": 315
+    },
+    {
+      "sr_no": 4,
+      "description": "Sunpride Sunflower Oil",
+      "hsn": "1006",
+      "qty": "1 LTR",
+      "rate": 107,
+      "taxable_value": 107,
+      "tax_percent": 0,
+      "tax_amount": 0,
+      "total": 107
+    }
+  ],
+  "subtotal": 2307,
+  "total_tax": 215,
+  "grand_total": 2522,
+  "total_in_words": "TWO THOUSAND FIVE HUNDRED AND TWENTY-TWO RUPEES ONLY"
+}
